@@ -12,7 +12,7 @@ class jugador:
  '''IDEAS PRINCIPALES EN ESTE APARTADO'''
     
  '''la idea principal para pedirle que donde se quería mover y que cuando pasase por encima de un objeto lo recogiese.'''
- '''y cuando lo tuviese lo llevase a la mochila a soltarlo, y al hacer eso se eliminaria la posicion del objeto'''
- '''y seria un bucle '''
+ '''seria un bucle '''ç
+ '''la actividad principal con los objetos seria en el tablero'''
  '''tenia pensado definir tambien las posiciones originales de los objetos y dejarlo indicado para que se tuviese en cuenta cuando se hiciese el apartado de 
   movimiento del jugador'''
